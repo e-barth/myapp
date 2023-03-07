@@ -1,6 +1,7 @@
 h1 {
-  color: green;
+  color: #333;
+  font-size: 5rem;
 }
 p {
-  color: black;
+  color: #111;
 }
